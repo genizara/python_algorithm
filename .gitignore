@@ -8,3 +8,6 @@
 /httpRequests/
 /vcs.xml
 
+*.txt
+*.pdf
+*.exe
